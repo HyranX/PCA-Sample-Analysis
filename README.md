@@ -12,10 +12,10 @@
 
 ## 可视化展示
 ### PCA得分图A
-![PCA Scores Plot A](./pic\PCA_Scores_Plot_A_2024-04-28_22-16-31.png)
+![PCA Scores Plot A](.\pic\PCA_Scores_Plot_A_2024-04-28_22-16-31.svg)
 
 ### PCA得分图B
-![PCA Scores Plot B](./pic\PCA_Scores_Plot_B_2024-04-28_22-16-31.png)
+![PCA Scores Plot B](.\pic\PCA_Scores_Plot_B_2024-04-28_22-16-31.svg)
 
 代码将自动把图形存储在项目文件夹中。
 
